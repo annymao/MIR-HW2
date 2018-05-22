@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+data1.tar.gz
+data2.tar.gz
+BallroomAnnotations/*
+data1/*
+data2/*
+
