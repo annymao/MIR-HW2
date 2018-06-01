@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 22 20:40:20 2018
+Created on Fri Jun  1 17:05:47 2018
 
 @author: anny
 """
@@ -16,7 +16,7 @@ from os.path import isfile, join
 
 path = 'data1/BallroomData/'
 out = open('Q1.txt','w')
-for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz','Slow Waltz']:
+for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennese Waltz','Slow Waltz']:
     mypath = join(path,i)
     files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     
@@ -41,23 +41,23 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz'
         
         # calculate tempogram
         S = librosa.stft(onset_env, hop_length=1, n_fft=1200)
-        fourier_tempogram = np.absolute(S)
+        ACF = librosa.istft(np.multiply(S,S),hop_length=1, n_fft=1200)
         #librosa.display.specshow(fourier_tempogram, sr=sr, hop_length=hop_length, x_axis='time')
         # method 1 to get bpm (not good)
         
         
         #calculate mean at each time
-        fourier_tempogram[0] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
-        fourier_tempogram[1] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
+        ACF[0] = [ 0 for i in range(0, ACF.shape[1])]
+        ACF[1] = [ 0 for i in range(0, ACF.shape[1])]
     
-        fourier_tempogram = np.mean(fourier_tempogram, axis=1, keepdims=True)
+        ACF = np.mean(ACF, axis=1, keepdims=True)
         # choose the maximum
-        a = np.argmax(fourier_tempogram)
+        a = np.argmax(ACF)
     
         #ftmp2 = fourier_tempogram[a]
         
         #translate bin to bpm freauency
-        bpms = librosa.core.tempo_frequencies(fourier_tempogram.shape[0], hop_length=hop_length, sr=sr)
+        bpms = librosa.core.tempo_frequencies(ACF.shape[0], hop_length=hop_length, sr=sr)
         #t2 = bpms[a]
     
         #set the probability of each bpms to normal distribution
@@ -68,11 +68,11 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz'
         test = fourier_tempogram[:]# * prior[:, np.newaxis];
         best_period = np.argmax(test)
         t1 = bpms[best_period]
-        ftmp1 = fourier_tempogram[best_period][0]
+        ftmp1 = ACF[best_period][0]
         test[best_period]=0;
         second = np.argmax(test);
         t2 = bpms[second]
-        ftmp2 = fourier_tempogram[second][0]
+        ftmp2 = ACF[second][0]
         #print(ftmp2)
         f1 = ftmp1
         f2 = ftmp2
@@ -135,7 +135,3 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz'
     out.write('\n')
     
 out.close()
-
-
-
-
