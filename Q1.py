@@ -16,7 +16,7 @@ from os.path import isfile, join
 
 path = 'data1/BallroomData/'
 out = open('Q1.txt','w')
-for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz','Slow Waltz']:
+for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz','Waltz']:
     mypath = join(path,i)
     files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     
@@ -45,11 +45,12 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz'
         #librosa.display.specshow(fourier_tempogram, sr=sr, hop_length=hop_length, x_axis='time')
         # method 1 to get bpm (not good)
         
-        
+        bpms = librosa.core.tempo_frequencies(fourier_tempogram.shape[0], hop_length=hop_length, sr=sr)
         #calculate mean at each time
         fourier_tempogram[0] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
         fourier_tempogram[1] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
-    
+        max_idx = np.argmax(bpms < 320)
+        fourier_tempogram[:max_idx] = 0
         fourier_tempogram = np.mean(fourier_tempogram, axis=1, keepdims=True)
         # choose the maximum
         a = np.argmax(fourier_tempogram)
@@ -57,7 +58,7 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennse Waltz'
         #ftmp2 = fourier_tempogram[a]
         
         #translate bin to bpm freauency
-        bpms = librosa.core.tempo_frequencies(fourier_tempogram.shape[0], hop_length=hop_length, sr=sr)
+       
         #t2 = bpms[a]
     
         #set the probability of each bpms to normal distribution

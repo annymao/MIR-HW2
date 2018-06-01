@@ -15,8 +15,8 @@ from os import listdir
 from os.path import isfile, join 
 
 path = 'data1/BallroomData/'
-out = open('Q1.txt','w')
-for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennese Waltz','Slow Waltz']:
+out = open('Q4.txt','w')
+for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz','Waltz']:
     mypath = join(path,i)
     files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     
@@ -40,16 +40,18 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennese Waltz
         onset_env = librosa.onset.onset_strength(y, sr=sr, hop_length=hop_length, n_fft=2048)
         
         # calculate tempogram
-        S = librosa.stft(onset_env, hop_length=1, n_fft=1200)
-        ACF = librosa.istft(np.multiply(S,S),hop_length=1, n_fft=1200)
-        #librosa.display.specshow(fourier_tempogram, sr=sr, hop_length=hop_length, x_axis='time')
+        #S = librosa.stft(onset_env, hop_length=1, n_fft=1200)
+        ACF = librosa.feature.tempogram(onset_envelope=onset_env, sr=sr,
+                                      hop_length=hop_length)
+        #librosa.display.specshow(ACF, sr=sr, hop_length=hop_length, x_axis='time')
         # method 1 to get bpm (not good)
-        
-        
+        bpms = librosa.core.tempo_frequencies(ACF.shape[0], hop_length=hop_length, sr=sr)
+
         #calculate mean at each time
         ACF[0] = [ 0 for i in range(0, ACF.shape[1])]
         ACF[1] = [ 0 for i in range(0, ACF.shape[1])]
-    
+        max_idx = np.argmax(bpms < 320)
+        ACF[:max_idx] = 0
         ACF = np.mean(ACF, axis=1, keepdims=True)
         # choose the maximum
         a = np.argmax(ACF)
@@ -57,15 +59,15 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennese Waltz
         #ftmp2 = fourier_tempogram[a]
         
         #translate bin to bpm freauency
-        bpms = librosa.core.tempo_frequencies(ACF.shape[0], hop_length=hop_length, sr=sr)
+       
         #t2 = bpms[a]
-    
+        
         #set the probability of each bpms to normal distribution
         #prior = np.exp(-0.5 * ((np.log2(bpms) - np.log2(120)) /1.0)**2)
     
         
         # get the two largest one
-        test = fourier_tempogram[:]# * prior[:, np.newaxis];
+        test = ACF[:]# * prior[:, np.newaxis];
         best_period = np.argmax(test)
         t1 = bpms[best_period]
         ftmp1 = ACF[best_period][0]
@@ -113,11 +115,11 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','Viennese Waltz
         out.write('ALOTC:               '+str(p2)+'\n')
         
         print('Estimate: ',f)
-        #print('Estimate tempo slow: ',t1)
-        #print('Estimate tempo fast: ',t2)
-        #print('Ans:                 ',ans)
-        #print('Relative P:          ',p1)
-        #print('ALOTC:               ',p2)
+       # print('Estimate tempo slow: ',t1)
+       # print('Estimate tempo fast: ',t2)
+       # print('Ans:                 ',ans)
+       # print('Relative P:          ',p1)
+       # print('ALOTC:               ',p2)
     average_P1 /= len(files)
     average_P2 /= len(files)   
     
