@@ -52,6 +52,8 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         ACF[1] = [ 0 for i in range(0, ACF.shape[1])]
         max_idx = np.argmax(bpms < 320)
         ACF[:max_idx] = 0
+        max_idx = np.argmax(bpms<50)
+        ACF[max_idx:] = 0
         ACF = np.mean(ACF, axis=1, keepdims=True)
         # choose the maximum
         a = np.argmax(ACF)
@@ -78,6 +80,11 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         #print(ftmp2)
         f1 = ftmp1
         f2 = ftmp2
+        while(abs(t1-t2)<0.08*t1 or abs(t1-t2)<0.08*t2):
+            second = np.argmax(test);
+            t2 = bpms[second]
+            f2 = ACF[second][0]
+            test[second]=0;
         if(t1 > t2):
             tmp = t1
             t1 = t2
@@ -115,11 +122,11 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         out.write('ALOTC:               '+str(p2)+'\n')
         
         print('Estimate: ',f)
-       # print('Estimate tempo slow: ',t1)
-       # print('Estimate tempo fast: ',t2)
-       # print('Ans:                 ',ans)
-       # print('Relative P:          ',p1)
-       # print('ALOTC:               ',p2)
+        print('Estimate tempo slow: ',t1)
+        print('Estimate tempo fast: ',t2)
+        print('Ans:                 ',ans)
+        print('Relative P:          ',p1)
+        print('ALOTC:               ',p2)
     average_P1 /= len(files)
     average_P2 /= len(files)   
     

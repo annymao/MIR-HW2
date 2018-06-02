@@ -51,6 +51,8 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         fourier_tempogram[1] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
         max_idx = np.argmax(bpms < 320)
         fourier_tempogram[:max_idx] = 0
+        max_idx = np.argmax(bpms < 50)
+        fourier_tempogram[max_idx:] = 0
         fourier_tempogram = np.mean(fourier_tempogram, axis=1, keepdims=True)
         # choose the maximum
         a = np.argmax(fourier_tempogram)
@@ -74,9 +76,16 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         second = np.argmax(test);
         t2 = bpms[second]
         ftmp2 = fourier_tempogram[second][0]
+        test[second]=0;
         #print(ftmp2)
         f1 = ftmp1
         f2 = ftmp2
+
+        while(abs(t1-t2)<0.08*t1 or abs(t1-t2)<0.08*t2):
+            second = np.argmax(test);
+            t2 = bpms[second]
+            f2 = fourier_tempogram[second][0]
+            test[second]=0;
         if(t1 > t2):
             tmp = t1
             t1 = t2
@@ -114,11 +123,11 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         out.write('ALOTC:               '+str(p2)+'\n')
         
         print('Estimate: ',f)
-        #print('Estimate tempo slow: ',t1)
-        #print('Estimate tempo fast: ',t2)
-        #print('Ans:                 ',ans)
-        #print('Relative P:          ',p1)
-        #print('ALOTC:               ',p2)
+        print('Estimate tempo slow: ',t1)
+        print('Estimate tempo fast: ',t2)
+        print('Ans:                 ',ans)
+        print('Relative P:          ',p1)
+        print('ALOTC:               ',p2)
     average_P1 /= len(files)
     average_P2 /= len(files)   
     
