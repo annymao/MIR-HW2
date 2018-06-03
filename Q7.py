@@ -28,7 +28,7 @@ def beat_track(spectral,bpm,fft_res,tight,trim):
     plt.title('Novelty Function')
     """
     # run the DP
-    backlink, cumscore = DP(localscore, period, tight)
+    backlink, cumscore = DP(spectral, period, tight)
 
     # get the position of the last beat
     beats = [last_beat(cumscore)]
@@ -118,7 +118,11 @@ if __name__ == '__main__':
                 bpmFile = tmp[0] + '.beats'
 
             y, sr = librosa.load(join(mypath,f))
-            ans = open(join(bpmPath,bpmFile),'r').read()
+            with open(join(bpmPath,bpmFile)) as f:
+                ans = f.readlines()
+            #ans = open(join(bpmPath,bpmFile),'r').read()
+            ans=[float(i.rstrip().split(' ')[0]) for i in ans]
+            print(ans)
             hop_length = 220
             # novelty curve
             onset_env = librosa.onset.onset_strength(y, sr=sr, hop_length=hop_length, n_fft=2048)
@@ -139,9 +143,20 @@ if __name__ == '__main__':
             
             plt.xlabel('Time (sec)')
             plt.title('Novelty Function')
-            beats = librosa.frames_to_time(beats, hop_length=hop_length, sr=sr)
-            plt.vlines(beats, 0, 10, color='r')
             """
+            beats = librosa.frames_to_time(beats, hop_length=hop_length, sr=sr)
+            
             print (beats)
+            ntp=0
+            nfp=0
+            for i in range(0,beats.shape[0]):
+                for j in ans:
+                    if(abs(j-beats[i])<=0.07):
+                        ntp+=1
+                        break;
+                    if(j - beats[i]>0.07):
+                        nfp+=1
+                        break;
+            print(ntp,nfp)
             out.write(str(beats))
     out.close()
