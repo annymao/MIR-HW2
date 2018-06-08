@@ -42,48 +42,33 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         # calculate tempogram
         #S = librosa.stft(onset_env, hop_length=1, n_fft=1200)
         ACF = librosa.feature.tempogram(onset_envelope=onset_env, sr=sr,
-                                      hop_length=hop_length)
+                                      hop_length=hop_length,win_length = int(30*sr/hop_length))
         #librosa.display.specshow(ACF, sr=sr, hop_length=hop_length, x_axis='time')
         # method 1 to get bpm (not good)
         bpms = librosa.core.tempo_frequencies(ACF.shape[0], hop_length=hop_length, sr=sr)
 
-        #calculate mean at each time
-        ACF[0] = [ 0 for i in range(0, ACF.shape[1])]
-        ACF[1] = [ 0 for i in range(0, ACF.shape[1])]
-        max_idx = np.argmax(bpms < 320)
-        ACF[:max_idx] = 0
-        max_idx = np.argmax(bpms<50)
-        ACF[max_idx:] = 0
-        ACF = np.mean(ACF, axis=1, keepdims=True)
-        # choose the maximum
-        a = np.argmax(ACF)
-    
-        #ftmp2 = fourier_tempogram[a]
+
+        ACF = np.mean(ACF, axis=1)
+        test = np.array([ACF[y] for y in range(ACF.shape[0])])
         
-        #translate bin to bpm freauency
-       
-        #t2 = bpms[a]
+        max_idx = np.argmax(bpms < 300)
+        test[:max_idx] = 0
         
-        #set the probability of each bpms to normal distribution
-        #prior = np.exp(-0.5 * ((np.log2(bpms) - np.log2(120)) /1.0)**2)
-    
         
-        # get the two largest one
-        test = ACF[:]# * prior[:, np.newaxis];
         best_period = np.argmax(test)
         t1 = bpms[best_period]
-        ftmp1 = ACF[best_period][0]
+        ftmp1 = ACF[best_period]
         test[best_period]=0;
         second = np.argmax(test);
         t2 = bpms[second]
-        ftmp2 = ACF[second][0]
+        ftmp2 = ACF[second]
         #print(ftmp2)
         f1 = ftmp1
         f2 = ftmp2
         while(abs(t1-t2)<0.08*t1 or abs(t1-t2)<0.08*t2):
             second = np.argmax(test);
             t2 = bpms[second]
-            f2 = ACF[second][0]
+            f2 = ACF[second]
             test[second]=0;
         if(t1 > t2):
             tmp = t1

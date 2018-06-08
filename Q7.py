@@ -28,7 +28,7 @@ def beat_track(spectral,bpm,fft_res,tight,trim):
     plt.title('Novelty Function')
     """
     # run the DP
-    backlink, cumscore = DP(spectral, period, tight)
+    backlink, cumscore = DP(localscore, period, tight)
 
     # get the position of the last beat
     beats = [last_beat(cumscore)]
@@ -101,7 +101,7 @@ def last_beat(cumscore):
 if __name__ == '__main__':
     path = 'data1/BallroomData/'
     out = open('Q7.txt','w')
-    for i in ['ChaChaCha']:#,'Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz','Waltz']:
+    for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz','Waltz']:
         mypath = join(path,i)
         files = [f for f in listdir(mypath) if isfile(join(mypath, f))]
         
@@ -111,7 +111,7 @@ if __name__ == '__main__':
         average_P2 = 0
         out.write('Genres: '+i+'\n')
         print("Genres: ",i)
-        for f in files[0:1]:
+        for f in files:
             print(f)
             tmp = f.split('.')
             if tmp[1]=='wav':
@@ -121,7 +121,7 @@ if __name__ == '__main__':
             with open(join(bpmPath,bpmFile)) as f:
                 ans = f.readlines()
             #ans = open(join(bpmPath,bpmFile),'r').read()
-            ans=[float(i.rstrip().split(' ')[0]) for i in ans]
+            ans=[float(i.rstrip().split(' ')[0].split('\t')[0]) for i in ans]
             print(ans)
             hop_length = 220
             # novelty curve
@@ -149,14 +149,37 @@ if __name__ == '__main__':
             print (beats)
             ntp=0
             nfp=0
-            for i in range(0,beats.shape[0]):
-                for j in ans:
-                    if(abs(j-beats[i])<=0.07):
+            nfn = 0
+            
+            found = [False for i in range(len(ans))]
+            for i in range(beats.shape[0]):
+                for j in range(0,len(ans)):
+                    if(abs(ans[j]-beats[i])<=0.07 and not found[j]):
                         ntp+=1
+                        found[j]=True
                         break;
-                    if(j - beats[i]>0.07):
-                        nfp+=1
+                    elif(abs(ans[j]-beats[i])<=0.07 and found[j]):
+                        nfp +=1
                         break;
-            print(ntp,nfp)
+
+            for i in found:
+                if i is not True:
+                    nfn+=1
+            print(ntp,nfp,nfn)
+            P=0
+            R=0
+            F=0
+            if(ntp+nfp!=0):
+                P = ntp/(ntp+nfp)
+            if(ntp+nfn!=0):
+                R = ntp/(ntp+nfn)
+            if(P+R!=0):
+                F=2*P*R/(P+R)
+            print(F)
+            out.write('Music:        '+str(f)+'\n')
             out.write(str(beats))
+            out.write('\n')
+            out.write('F-Score:      '+str(F))
+            out.write('\n')
+        out.write('------------------------------------------------\n')
     out.close()

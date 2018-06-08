@@ -47,35 +47,21 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         
         bpms = librosa.core.tempo_frequencies(fourier_tempogram.shape[0], hop_length=hop_length, sr=sr)
         #calculate mean at each time
-        fourier_tempogram[0] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
-        fourier_tempogram[1] = [ 0 for i in range(0, fourier_tempogram.shape[1])]
-        max_idx = np.argmax(bpms < 320)
-        fourier_tempogram[:max_idx] = 0
+        fourier_tempogram = np.mean(fourier_tempogram, axis=1)
+        test = np.array([fourier_tempogram[y] for y in range(fourier_tempogram.shape[0])])
+        
+        max_idx = np.argmax(bpms < 1000)
+        test[:max_idx] = 0
         max_idx = np.argmax(bpms < 50)
-        fourier_tempogram[max_idx:] = 0
-        fourier_tempogram = np.mean(fourier_tempogram, axis=1, keepdims=True)
-        # choose the maximum
-        a = np.argmax(fourier_tempogram)
-    
-        #ftmp2 = fourier_tempogram[a]
+        test[max_idx:] = 0
         
-        #translate bin to bpm freauency
-       
-        #t2 = bpms[a]
-    
-        #set the probability of each bpms to normal distribution
-        #prior = np.exp(-0.5 * ((np.log2(bpms) - np.log2(120)) /1.0)**2)
-    
-        
-        # get the two largest one
-        test = fourier_tempogram[:]# * prior[:, np.newaxis];
         best_period = np.argmax(test)
         t1 = bpms[best_period]
-        ftmp1 = fourier_tempogram[best_period][0]
+        ftmp1 = fourier_tempogram[best_period]
         test[best_period]=0;
         second = np.argmax(test);
         t2 = bpms[second]
-        ftmp2 = fourier_tempogram[second][0]
+        ftmp2 = fourier_tempogram[second]
         test[second]=0;
         #print(ftmp2)
         f1 = ftmp1
@@ -84,7 +70,7 @@ for i in ['ChaChaCha','Jive','Quickstep','Rumba','Samba','Tango','VienneseWaltz'
         while(abs(t1-t2)<0.08*t1 or abs(t1-t2)<0.08*t2):
             second = np.argmax(test);
             t2 = bpms[second]
-            f2 = fourier_tempogram[second][0]
+            f2 = fourier_tempogram[second]
             test[second]=0;
         if(t1 > t2):
             tmp = t1
