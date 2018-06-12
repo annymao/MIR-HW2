@@ -1,0 +1,4236 @@
+Genres: ChaChaCha
+Estimate: Albums-Cafe_Paradiso-05.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5373053637995071
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-06.wav
+Estimate tempo slow: 61.36363636363637
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.5298524218613603
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-07.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.660212939674615
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-08.wav
+Estimate tempo slow: 35.37433155080214
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.7156816536531662
+ALOTC:               1
+Estimate: Albums-Fire-01.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6969107375363216
+ALOTC:               1
+Estimate: Albums-Fire-08.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6524864441256961
+ALOTC:               1
+Estimate: Albums-Fire-14.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.7018876644748253
+ALOTC:               1
+Estimate: Albums-I_Like_It2-01.wav
+Estimate tempo slow: 111.36363636363636
+Estimate tempo fast: 133.63636363636363
+Ans:                 136
+Relative P:          0.4248011025066307
+ALOTC:               1
+Estimate: Albums-I_Like_It2-02.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 120.27272727272727
+Ans:                 123
+Relative P:          0.4769517153295747
+ALOTC:               1
+Estimate: Albums-Latino_Latino-01.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 125.2840909090909
+Ans:                 128
+Relative P:          0.5352931203908219
+ALOTC:               1
+Estimate: Albums-Latino_Latino-04.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 231.2937062937063
+Ans:                 120
+Relative P:          0.5887132625364982
+ALOTC:               1
+Estimate: Albums-Latino_Latino-06.wav
+Estimate tempo slow: 105.50239234449761
+Estimate tempo fast: 143.1818181818182
+Ans:                 109
+Relative P:          0.4703827738246512
+ALOTC:               1
+Estimate: Albums-Latin_Jam-01.wav
+Estimate tempo slow: 63.301435406698566
+Estimate tempo fast: 117.9144385026738
+Ans:                 128
+Relative P:          0.5813237398208583
+ALOTC:               1
+Estimate: Albums-Latin_Jam-04.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.581805267626827
+ALOTC:               1
+Estimate: Albums-Latin_Jam-07.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6659538795397484
+ALOTC:               1
+Estimate: Albums-Latin_Jam-13.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5614814462295828
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-04.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5553297099581116
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-05.wav
+Estimate tempo slow: 63.301435406698566
+Estimate tempo fast: 250.5681818181818
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-06.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5014946790616
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-13.wav
+Estimate tempo slow: 63.301435406698566
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5360007957166324
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-01.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 128
+Relative P:          0.5563038860567325
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-02.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 128
+Relative P:          0.5829519627929877
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-03.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 128
+Relative P:          0.5290724765723793
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-01.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 128
+Relative P:          0.6802374242778166
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-06.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5836098938091449
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-11.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.46913127820246536
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-02.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.7138864093120645
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-07.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.699428586992603
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-11.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.532493666777811
+ALOTC:               1
+Estimate: Albums-Macumba-01.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5621225124200446
+ALOTC:               1
+Estimate: Albums-Macumba-02.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6925213498209877
+ALOTC:               1
+Estimate: Albums-Macumba-03.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6713711652663643
+ALOTC:               1
+Estimate: Albums-Macumba-04.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6928899542196261
+ALOTC:               1
+Estimate: Albums-Mambo_Kings-03.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 117
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Mambo_Kings-10.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 106
+Relative P:          0.3922132816307716
+ALOTC:               1
+Estimate: Albums-Mambo_Kings-11.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 118
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Mambo_Kings-12.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 222.72727272727272
+Ans:                 117
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-05.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6894614309684194
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-06.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.7054892953041357
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-07.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.5495184810040811
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-08.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6838165587608289
+ALOTC:               1
+Estimate: Media-103401.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6980099733707642
+ALOTC:               1
+Estimate: Media-103402.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103403.wav
+Estimate tempo slow: 30.99812558575445
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.7213144423097013
+ALOTC:               1
+Estimate: Media-103404.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.67209420104998
+ALOTC:               1
+Estimate: Media-103405.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5779349308366456
+ALOTC:               1
+Estimate: Media-103406.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.7099615956507321
+ALOTC:               1
+Estimate: Media-103407.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6908555715569765
+ALOTC:               1
+Estimate: Media-103408.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.666707730115199
+ALOTC:               1
+Estimate: Media-103409.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 120.27272727272727
+Ans:                 124
+Relative P:          0.6738978900525039
+ALOTC:               1
+Estimate: Media-103410.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5491006969258185
+ALOTC:               1
+Estimate: Media-103411.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6969428452070214
+ALOTC:               1
+Estimate: Media-103412.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.679170407870035
+ALOTC:               1
+Estimate: Media-103413.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 120.27272727272727
+Ans:                 124
+Relative P:          0.6513676712902664
+ALOTC:               1
+Estimate: Media-103414.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.40024961519656466
+ALOTC:               1
+Estimate: Media-103415.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 240.54545454545453
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103416.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 130.7312252964427
+Ans:                 124
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-103417.wav
+Estimate tempo slow: 56.202209005947324
+Estimate tempo fast: 133.63636363636363
+Ans:                 124
+Relative P:          0.5094833433797575
+ALOTC:               1
+Estimate: Media-103507.wav
+Estimate tempo slow: 61.36363636363637
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.5805662973578039
+ALOTC:               1
+Estimate: Media-103508.wav
+Estimate tempo slow: 31.158737635421573
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.6667781362207663
+ALOTC:               1
+Estimate: Media-103509.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6888668320110369
+ALOTC:               1
+Estimate: Media-103510.wav
+Estimate tempo slow: 30.99812558575445
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.6676820053998516
+ALOTC:               1
+Estimate: Media-103601.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 127.94970986460348
+Ans:                 116
+Relative P:          0.40212179642582946
+ALOTC:               1
+Estimate: Media-103602.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.684042579083966
+ALOTC:               1
+Estimate: Media-103603.wav
+Estimate tempo slow: 61.36363636363637
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.5247370982661628
+ALOTC:               1
+Estimate: Media-103604.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5922472302930384
+ALOTC:               1
+Estimate: Media-103617.wav
+Estimate tempo slow: 109.33884297520662
+Estimate tempo fast: 136.67355371900825
+Ans:                 108
+Relative P:          0.38456276718959953
+ALOTC:               1
+Estimate: Media-103701.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.575446857737741
+ALOTC:               1
+Estimate: Media-103702.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6776857002133321
+ALOTC:               1
+Estimate: Media-103703.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.6772136161932829
+ALOTC:               1
+Estimate: Media-103704.wav
+Estimate tempo slow: 59.54095409540954
+Estimate tempo fast: 120.27272727272727
+Ans:                 120
+Relative P:          0.5709405956786159
+ALOTC:               1
+Estimate: Media-103716.wav
+Estimate tempo slow: 57.27272727272727
+Estimate tempo fast: 130.7312252964427
+Ans:                 112
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103801.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103802.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.667410509910928
+ALOTC:               1
+Estimate: Media-103803.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6934051326222928
+ALOTC:               1
+Estimate: Media-103804.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 130.7312252964427
+Ans:                 116
+Relative P:          0.38188510150358923
+ALOTC:               1
+Estimate: Media-103816.wav
+Estimate tempo slow: 107.38636363636364
+Estimate tempo fast: 139.85200845665963
+Ans:                 108
+Relative P:          0.38828078506487623
+ALOTC:               1
+Estimate: Media-103906.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 120.27272727272727
+Ans:                 124
+Relative P:          0.6900109116290136
+ALOTC:               1
+Estimate: Media-103907.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5890214640072038
+ALOTC:               1
+Estimate: Media-103908.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5748004323028988
+ALOTC:               1
+Estimate: Media-103909.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6819197915176585
+ALOTC:               1
+Estimate: Media-103910.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104009.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 231.2937062937063
+Ans:                 116
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104010.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104011.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.45007090582746234
+ALOTC:               1
+Estimate: Media-104012.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.6099356528340629
+ALOTC:               1
+Estimate: Media-104106.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6313001974484521
+ALOTC:               1
+Estimate: Media-104107.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.5612815134801469
+ALOTC:               1
+Estimate: Media-104108.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.6235850986382969
+ALOTC:               1
+Estimate: Media-104109.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 120.27272727272727
+Ans:                 124
+Relative P:          0.6486702464415688
+ALOTC:               1
+Estimate: Media-104110.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104111.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6620786358441768
+ALOTC:               1
+Estimate: Media-105405.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5980035507004285
+ALOTC:               1
+Estimate: Media-105406.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105407.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5935655861086435
+ALOTC:               1
+Estimate: Media-105417.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 116
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105601.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5465543928478602
+ALOTC:               1
+Estimate: Media-105602.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.7235483388202893
+ALOTC:               1
+Estimate: Media-105603.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6923134031861804
+ALOTC:               1
+Estimate: Media-105604.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.39956506800143377
+ALOTC:               1
+Estimate: Media-105605.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5929946707470908
+ALOTC:               1
+Estimate: Media-106005.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6888225348212149
+ALOTC:               1
+Estimate: Media-106006.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5874920759324403
+ALOTC:               1
+Estimate: Media-106007.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6807983385858588
+ALOTC:               1
+Estimate: Media-106008.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6910887417473219
+ALOTC:               1
+Estimate: Media-106101.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5780930517400109
+ALOTC:               1
+Estimate: Media-106102.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6995229141842745
+ALOTC:               1
+Estimate: Media-106103.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6833914557407953
+ALOTC:               1
+Estimate: Media-106104.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6687794157945381
+ALOTC:               1
+Estimate: Media-106105.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 124
+Relative P:          0.6950743944263936
+ALOTC:               1
+Estimate: Media-106117.wav
+Estimate tempo slow: 61.36363636363637
+Estimate tempo fast: 162.53071253071252
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+---------------------------------------------
+Average P-scores:        0.5272399555963666
+Average ALOCT:           0.8648648648648649
+---------------------------------------------
+
+Genres: Jive
+Estimate: Albums-Cafe_Paradiso-14.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.6421956129914684
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-15.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.6013572199261055
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-16.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.5952253942781749
+ALOTC:               1
+Estimate: Albums-Commitments-08.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 187.92613636363637
+Ans:                 164
+Relative P:          0.38674346580870106
+ALOTC:               1
+Estimate: Albums-Commitments-10.wav
+Estimate tempo slow: 81.26535626535626
+Estimate tempo fast: 93.96306818181819
+Ans:                 164
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Fire-07.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.4351374187918565
+ALOTC:               1
+Estimate: Albums-Fire-12.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6119720804158303
+ALOTC:               1
+Estimate: Albums-Latin_Jam-11.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.6203878249459523
+ALOTC:               1
+Estimate: Albums-Latin_Jam-12.wav
+Estimate tempo slow: 43.89515593895156
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.6687478209006068
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-11.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.6345799875644982
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-12.wav
+Estimate tempo slow: 43.89515593895156
+Estimate tempo fast: 87.15415019762845
+Ans:                 176
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam3-11.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.5828779853701866
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-12.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.6219782461981409
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-05.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.6540898661346439
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-10.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 171.8181818181818
+Ans:                 176
+Relative P:          0.5870632454475193
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-04.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.582972420628187
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-09.wav
+Estimate tempo slow: 43.89515593895156
+Estimate tempo fast: 87.15415019762845
+Ans:                 176
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-14.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.6329798549308214
+ALOTC:               1
+Estimate: Albums-Macumba-15.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.613880647985636
+ALOTC:               1
+Estimate: Albums-Macumba-16.wav
+Estimate tempo slow: 42.053401144310236
+Estimate tempo fast: 176.8716577540107
+Ans:                 168
+Relative P:          0.6120877657022579
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-13.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 168
+Relative P:          0.39508364755763625
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-14.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 182.23140495867767
+Ans:                 168
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-15.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.6429989862932671
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-16.wav
+Estimate tempo slow: 58.384819064430715
+Estimate tempo fast: 85.9090909090909
+Ans:                 172
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103515.wav
+Estimate tempo slow: 80.18181818181819
+Estimate tempo fast: 187.92613636363637
+Ans:                 160
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103516.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 182.23140495867767
+Ans:                 168
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103517.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.5453061022442137
+ALOTC:               1
+Estimate: Media-103611.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 182.23140495867767
+Ans:                 172
+Relative P:          0.6278837227204064
+ALOTC:               1
+Estimate: Media-103612.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.6044616139746716
+ALOTC:               1
+Estimate: Media-103613.wav
+Estimate tempo slow: 21.788537549407113
+Estimate tempo fast: 176.8716577540107
+Ans:                 176
+Relative P:          0.7127111588571036
+ALOTC:               1
+Estimate: Media-103614.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.47252165388718637
+ALOTC:               1
+Estimate: Media-103619.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 222.72727272727272
+Ans:                 136
+Relative P:          0.38782397167792143
+ALOTC:               1
+Estimate: Media-103713.wav
+Estimate tempo slow: 57.27272727272727
+Estimate tempo fast: 88.43582887700535
+Ans:                 176
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103714.wav
+Estimate tempo slow: 43.89515593895156
+Estimate tempo fast: 88.43582887700535
+Ans:                 176
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103718.wav
+Estimate tempo slow: 125.2840909090909
+Estimate tempo fast: 240.54545454545453
+Ans:                 124
+Relative P:          0.3943101152384307
+ALOTC:               1
+Estimate: Media-103719.wav
+Estimate tempo slow: 68.33677685950413
+Estimate tempo fast: 136.67355371900825
+Ans:                 136
+Relative P:          0.41408912725526903
+ALOTC:               1
+Estimate: Media-103813.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.6156577080956421
+ALOTC:               1
+Estimate: Media-103814.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.6037922231615336
+ALOTC:               1
+Estimate: Media-103819.wav
+Estimate tempo slow: 66.08391608391608
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103917.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 125.2840909090909
+Ans:                 124
+Relative P:          0.5612489856356782
+ALOTC:               1
+Estimate: Media-103918.wav
+Estimate tempo slow: 71.5909090909091
+Estimate tempo fast: 143.1818181818182
+Ans:                 144
+Relative P:          0.35166041344524424
+ALOTC:               1
+Estimate: Media-103919.wav
+Estimate tempo slow: 80.18181818181819
+Estimate tempo fast: 187.92613636363637
+Ans:                 160
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103920.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 168
+Relative P:          0.3718227411831625
+ALOTC:               1
+Estimate: Media-104015.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 164
+Relative P:          0.3802955480351374
+ALOTC:               1
+Estimate: Media-104016.wav
+Estimate tempo slow: 21.40084115173083
+Estimate tempo fast: 85.9090909090909
+Ans:                 172
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104017.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.636173448299578
+ALOTC:               1
+Estimate: Media-104116.wav
+Estimate tempo slow: 68.33677685950413
+Estimate tempo fast: 136.67355371900825
+Ans:                 136
+Relative P:          0.35805750110397905
+ALOTC:               1
+Estimate: Media-104117.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.5922887461565407
+ALOTC:               1
+Estimate: Media-104118.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.6117378865784375
+ALOTC:               1
+Estimate: Media-104119.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 172
+Relative P:          0.576118873039278
+ALOTC:               1
+Estimate: Media-105413.wav
+Estimate tempo slow: 93.96306818181819
+Estimate tempo fast: 158.25358851674642
+Ans:                 160
+Relative P:          0.3666144264386435
+ALOTC:               1
+Estimate: Media-105414.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.5766788053036118
+ALOTC:               1
+Estimate: Media-105415.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 167.04545454545453
+Ans:                 172
+Relative P:          0.480211691839024
+ALOTC:               1
+Estimate: Media-105420.wav
+Estimate tempo slow: 30.83916083916084
+Estimate tempo fast: 162.53071253071252
+Ans:                 124
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106015.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 168
+Relative P:          0.332756795713541
+ALOTC:               1
+Estimate: Media-106016.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.6195043807174727
+ALOTC:               1
+Estimate: Media-106017.wav
+Estimate tempo slow: 42.95454545454545
+Estimate tempo fast: 85.9090909090909
+Ans:                 172
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106114.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 168
+Relative P:          0.46374998490279207
+ALOTC:               1
+Estimate: Media-106115.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.5638586124269702
+ALOTC:               1
+Estimate: Media-106116.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 172
+Relative P:          0.6247046487661925
+ALOTC:               1
+---------------------------------------------
+Average P-scores:        0.4161400063094858
+Average ALOCT:           0.7666666666666667
+---------------------------------------------
+
+Genres: Quickstep
+Estimate: Albums-AnaBelen_Veneo-11.wav
+Estimate tempo slow: 105.50239234449761
+Estimate tempo fast: 143.1818181818182
+Ans:                 214
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Classics4-18.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.35319857244918895
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-19.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.374035763086922
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-20.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.39908595281175485
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-15.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Magic-16.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.40728633516942825
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-17.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 100.22727272727273
+Ans:                 200
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne1-12.wav
+Estimate tempo slow: 200.45454545454547
+Estimate tempo fast: 240.54545454545453
+Ans:                 200
+Relative P:          0.4568427601843674
+ALOTC:               1
+Estimate: Albums-Chrisanne1-13.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 207.36677115987462
+Ans:                 200
+Relative P:          0.506333302659885
+ALOTC:               1
+Estimate: Albums-Chrisanne1-14.wav
+Estimate tempo slow: 200.45454545454547
+Estimate tempo fast: 240.54545454545453
+Ans:                 200
+Relative P:          0.5124033190655954
+ALOTC:               1
+Estimate: Albums-Chrisanne2-11.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.3728846056519399
+ALOTC:               1
+Estimate: Albums-Chrisanne2-12.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne3-13.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.4171111959432213
+ALOTC:               1
+Estimate: Albums-Chrisanne3-14.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.3769857010618165
+ALOTC:               1
+Estimate: Albums-Chrisanne3-15.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Step_By_Step-15.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 153
+Relative P:          0.5794258597445945
+ALOTC:               1
+Estimate: Albums-Step_By_Step-16.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 207.36677115987462
+Ans:                 153
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Step_By_Step-17.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 153
+Relative P:          0.6147334986772539
+ALOTC:               1
+Estimate: Albums-Step_By_Step-18.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 146.67405764966742
+Ans:                 153
+Relative P:          0.6029107763845437
+ALOTC:               1
+Estimate: Media-100614.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 214.77272727272728
+Ans:                 204
+Relative P:          0.41233281658816145
+ALOTC:               1
+Estimate: Media-100615.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.3787443868878948
+ALOTC:               1
+Estimate: Media-100616.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.41672333546835383
+ALOTC:               1
+Estimate: Media-103312.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.4335042063384359
+ALOTC:               1
+Estimate: Media-103313.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.40387410610686914
+ALOTC:               1
+Estimate: Media-103314.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.38096300417404705
+ALOTC:               1
+Estimate: Media-104216.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.38271876256089465
+ALOTC:               1
+Estimate: Media-104217.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.4214167872087953
+ALOTC:               1
+Estimate: Media-104218.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 300.6818181818182
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104219.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.44199955055976303
+ALOTC:               1
+Estimate: Media-104314.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 214.77272727272728
+Ans:                 208
+Relative P:          0.36271509580591044
+ALOTC:               1
+Estimate: Media-104315.wav
+Estimate tempo slow: 105.50239234449761
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.505369561365229
+ALOTC:               1
+Estimate: Media-104316.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 143.1818181818182
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104317.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104415.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.3194928677000408
+ALOTC:               1
+Estimate: Media-104416.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104417.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.4005889358350747
+ALOTC:               1
+Estimate: Media-104418.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 208
+Relative P:          0.36718317226555197
+ALOTC:               1
+Estimate: Media-104514.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.38564457257629914
+ALOTC:               1
+Estimate: Media-104515.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.39408718694745504
+ALOTC:               1
+Estimate: Media-104516.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104615.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.3655968918971757
+ALOTC:               1
+Estimate: Media-104616.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.3497914020854328
+ALOTC:               1
+Estimate: Media-104617.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.3690613716653741
+ALOTC:               1
+Estimate: Media-104618.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104716.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.42880509626345154
+ALOTC:               1
+Estimate: Media-104717.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.4007282407934676
+ALOTC:               1
+Estimate: Media-104718.wav
+Estimate tempo slow: 69.12225705329153
+Estimate tempo fast: 103.68338557993731
+Ans:                 208
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104815.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104816.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.3786113727506153
+ALOTC:               1
+Estimate: Media-104915.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.38668847842803566
+ALOTC:               1
+Estimate: Media-104916.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.3891408669513725
+ALOTC:               1
+Estimate: Media-104917.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.3807175493228485
+ALOTC:               1
+Estimate: Media-104918.wav
+Estimate tempo slow: 67.56894790602655
+Estimate tempo fast: 150.3409090909091
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105016.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.35034400448838154
+ALOTC:               1
+Estimate: Media-105017.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.3693501104522867
+ALOTC:               1
+Estimate: Media-105018.wav
+Estimate tempo slow: 200.45454545454547
+Estimate tempo fast: 300.6818181818182
+Ans:                 200
+Relative P:          0.5056413473756238
+ALOTC:               1
+Estimate: Media-105019.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.36405184552767966
+ALOTC:               1
+Estimate: Media-105020.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.3700620106489727
+ALOTC:               1
+Estimate: Media-105119.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.35607182946506466
+ALOTC:               1
+Estimate: Media-105120.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105121.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.40883161768478415
+ALOTC:               1
+Estimate: Media-105122.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 200.45454545454547
+Ans:                 208
+Relative P:          0.3770981248965368
+ALOTC:               1
+Estimate: Media-105207.wav
+Estimate tempo slow: 139.85200845665963
+Estimate tempo fast: 214.77272727272728
+Ans:                 219
+Relative P:          0.40741799260793654
+ALOTC:               1
+Estimate: Media-105313.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 261.4624505928854
+Ans:                 200
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105314.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.39708903288094366
+ALOTC:               1
+Estimate: Media-105315.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105320.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 208
+Relative P:          0.37701260736853714
+ALOTC:               1
+Estimate: Media-105516.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.5229756404175752
+ALOTC:               1
+Estimate: Media-105517.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 200
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105518.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.36250541501015554
+ALOTC:               1
+Estimate: Media-105715.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105716.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.4514931505626758
+ALOTC:               1
+Estimate: Media-105717.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.5030666630470992
+ALOTC:               1
+Estimate: Media-105816.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 204
+Relative P:          0.40500290346824164
+ALOTC:               1
+Estimate: Media-105817.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105818.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.33780746004665285
+ALOTC:               1
+Estimate: Media-105819.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105820.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 204
+Relative P:          0.35901329295566486
+ALOTC:               1
+Estimate: Media-105911.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105912.wav
+Estimate tempo slow: 68.33677685950413
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105913.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 204
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105914.wav
+Estimate tempo slow: 154.1958041958042
+Estimate tempo fast: 200.45454545454547
+Ans:                 200
+Relative P:          0.3681289873704341
+ALOTC:               1
+---------------------------------------------
+Average P-scores:        0.28564269875258913
+Average ALOCT:           0.6951219512195121
+---------------------------------------------
+
+Genres: Rumba
+Estimate: Albums-AnaBelen_Veneo-01.wav
+Estimate tempo slow: 154.1958041958042
+Estimate tempo fast: 193.98826979472142
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-AnaBelen_Veneo-03.wav
+Estimate tempo slow: 80.18181818181819
+Estimate tempo fast: 120.27272727272727
+Ans:                 122
+Relative P:          0.5759619186427029
+ALOTC:               1
+Estimate: Albums-AnaBelen_Veneo-13.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 133.63636363636363
+Ans:                 135
+Relative P:          0.3825010536069704
+ALOTC:               1
+Estimate: Albums-AnaBelen_Veneo-15.wav
+Estimate tempo slow: 80.18181818181819
+Estimate tempo fast: 120.27272727272727
+Ans:                 122
+Relative P:          0.5262115910299181
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-09.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.3978093720016827
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-10.wav
+Estimate tempo slow: 95.45454545454545
+Estimate tempo fast: 158.25358851674642
+Ans:                 96
+Relative P:          0.3663446305748152
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-11.wav
+Estimate tempo slow: 95.45454545454545
+Estimate tempo fast: 158.25358851674642
+Ans:                 96
+Relative P:          0.4723411287315918
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-12.wav
+Estimate tempo slow: 95.45454545454545
+Estimate tempo fast: 158.25358851674642
+Ans:                 96
+Relative P:          0.4196633962849753
+ALOTC:               1
+Estimate: Albums-Fire-03.wav
+Estimate tempo slow: 96.99413489736071
+Estimate tempo fast: 154.1958041958042
+Ans:                 108
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Fire-10.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-GloriaEstefan_MiTierra-01.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 88
+Relative P:          0.4273458402416998
+ALOTC:               1
+Estimate: Albums-GloriaEstefan_MiTierra-04.wav
+Estimate tempo slow: 62.64204545454545
+Estimate tempo fast: 117.9144385026738
+Ans:                 122
+Relative P:          0.4007746831454959
+ALOTC:               1
+Estimate: Albums-GloriaEstefan_MiTierra-06.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 133.63636363636363
+Ans:                 120
+Relative P:          0.6127616842216808
+ALOTC:               1
+Estimate: Albums-GloriaEstefan_MiTierra-08.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 176.8716577540107
+Ans:                 120
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-GloriaEstefan_MiTierra-11.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 120
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-I_Like_It2-09.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 127.94970986460348
+Ans:                 130
+Relative P:          0.4339656979667844
+ALOTC:               1
+Estimate: Albums-Latino_Latino-05.wav
+Estimate tempo slow: 111.36363636363636
+Estimate tempo fast: 136.67355371900825
+Ans:                 115
+Relative P:          0.3983256491627358
+ALOTC:               1
+Estimate: Albums-Latino_Latino-09.wav
+Estimate tempo slow: 107.38636363636364
+Estimate tempo fast: 273.3471074380165
+Ans:                 141
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latino_Latino-10.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 222.72727272727272
+Ans:                 115
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam-02.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam-05.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.417073525990072
+ALOTC:               1
+Estimate: Albums-Latin_Jam-08.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.4137933110962472
+ALOTC:               1
+Estimate: Albums-Latin_Jam-14.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.4325287977244707
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-07.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-08.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.46760656745761964
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-09.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-15.wav
+Estimate tempo slow: 69.12225705329153
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam3-07.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam3-08.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam3-09.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam4-03.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam4-08.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam4-13.wav
+Estimate tempo slow: 69.12225705329153
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam5-03.wav
+Estimate tempo slow: 69.12225705329153
+Estimate tempo fast: 103.68338557993731
+Ans:                 104
+Relative P:          0.5463429757505422
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-08.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.434115972178777
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-12.wav
+Estimate tempo slow: 69.12225705329153
+Estimate tempo fast: 103.68338557993731
+Ans:                 104
+Relative P:          0.4597050491615795
+ALOTC:               1
+Estimate: Albums-Macumba-09.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 193.98826979472142
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-10.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 193.98826979472142
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-11.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-12.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-09.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.4557414160474338
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-10.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-11.wav
+Estimate tempo slow: 66.08391608391608
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-12.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103511.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103512.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103513.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.42744501939199725
+ALOTC:               1
+Estimate: Media-103514.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103608.wav
+Estimate tempo slow: 154.1958041958042
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103609.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.3977735313802643
+ALOTC:               1
+Estimate: Media-103610.wav
+Estimate tempo slow: 52.29249011857708
+Estimate tempo fast: 143.1818181818182
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103615.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 76
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103616.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 187.92613636363637
+Ans:                 80
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103709.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 187.92613636363637
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103710.wav
+Estimate tempo slow: 95.45454545454545
+Estimate tempo fast: 158.25358851674642
+Ans:                 100
+Relative P:          0.36880865393390205
+ALOTC:               1
+Estimate: Media-103711.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103712.wav
+Estimate tempo slow: 98.58420268256334
+Estimate tempo fast: 154.1958041958042
+Ans:                 100
+Relative P:          0.4651731294440319
+ALOTC:               1
+Estimate: Media-103717.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 76
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103809.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.3792966361829319
+ALOTC:               1
+Estimate: Media-103810.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103811.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103812.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103817.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 76
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103818.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103911.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 171.8181818181818
+Ans:                 88
+Relative P:          0.453860505045708
+ALOTC:               1
+Estimate: Media-103912.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 182.23140495867767
+Ans:                 92
+Relative P:          0.5014938824336806
+ALOTC:               1
+Estimate: Media-103913.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103914.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104005.wav
+Estimate tempo slow: 95.45454545454545
+Estimate tempo fast: 158.25358851674642
+Ans:                 96
+Relative P:          0.384992781845234
+ALOTC:               1
+Estimate: Media-104006.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104007.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104008.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104112.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 193.98826979472142
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104113.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104114.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.474723691224656
+ALOTC:               1
+Estimate: Media-104115.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 187.92613636363637
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105209.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 182.23140495867767
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105408.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105409.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105410.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 187.92613636363637
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105411.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105412.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.39650560729023154
+ALOTC:               1
+Estimate: Media-105418.wav
+Estimate tempo slow: 75.17045454545455
+Estimate tempo fast: 200.45454545454547
+Ans:                 76
+Relative P:          0.35414957954807536
+ALOTC:               1
+Estimate: Media-105419.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 76
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105611.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.42128469532138346
+ALOTC:               1
+Estimate: Media-105612.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.4230328396345712
+ALOTC:               1
+Estimate: Media-105613.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 143.1818181818182
+Ans:                 104
+Relative P:          0.3834776905736257
+ALOTC:               1
+Estimate: Media-105614.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.3908650303409222
+ALOTC:               1
+Estimate: Media-105615.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 143.1818181818182
+Ans:                 104
+Relative P:          0.36892845355801085
+ALOTC:               1
+Estimate: Media-106009.wav
+Estimate tempo slow: 43.89515593895156
+Estimate tempo fast: 176.8716577540107
+Ans:                 88
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106010.wav
+Estimate tempo slow: 92.51748251748252
+Estimate tempo fast: 162.53071253071252
+Ans:                 92
+Relative P:          0.3819082545870286
+ALOTC:               1
+Estimate: Media-106011.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 193.98826979472142
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106012.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106110.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 187.92613636363637
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106111.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106112.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.43122593736855613
+ALOTC:               1
+Estimate: Media-106113.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106119.wav
+Estimate tempo slow: 21.026700572155118
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+---------------------------------------------
+Average P-scores:        0.16781489979716946
+Average ALOCT:           0.3877551020408163
+---------------------------------------------
+
+Genres: Samba
+Estimate: Albums-AnaBelen_Veneo-02.wav
+Estimate tempo slow: 49.699474079639366
+Estimate tempo fast: 100.22727272727273
+Ans:                 224
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Cafe_Paradiso-01.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Cafe_Paradiso-02.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Cafe_Paradiso-03.wav
+Estimate tempo slow: 25.481510015408322
+Estimate tempo fast: 101.92604006163329
+Ans:                 102
+Relative P:          0.5635654603109701
+ALOTC:               1
+Estimate: Albums-Cafe_Paradiso-04.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Fire-02.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 143.1818181818182
+Ans:                 104
+Relative P:          0.43409944250528293
+ALOTC:               1
+Estimate: Albums-Fire-09.wav
+Estimate tempo slow: 61.9962511715089
+Estimate tempo fast: 122.72727272727273
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Fire-15.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latino_Latino-03.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 200.45454545454547
+Ans:                 202
+Relative P:          0.5563150470630657
+ALOTC:               1
+Estimate: Albums-Latin_Jam-03.wav
+Estimate tempo slow: 51.841692789968654
+Estimate tempo fast: 72.45345016429354
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam-06.wav
+Estimate tempo slow: 51.841692789968654
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam-09.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.4076595777858199
+ALOTC:               1
+Estimate: Albums-Latin_Jam-15.wav
+Estimate tempo slow: 51.841692789968654
+Estimate tempo fast: 146.67405764966742
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-01.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 207.36677115987462
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-02.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam2-03.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.3955253055937759
+ALOTC:               1
+Estimate: Albums-Latin_Jam2-14.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam3-04.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 100.22727272727273
+Ans:                 100
+Relative P:          0.5113898216953523
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-05.wav
+Estimate tempo slow: 75.17045454545455
+Estimate tempo fast: 100.22727272727273
+Ans:                 100
+Relative P:          0.4916037208896167
+ALOTC:               1
+Estimate: Albums-Latin_Jam3-06.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 100.22727272727273
+Ans:                 100
+Relative P:          0.5444396407757823
+ALOTC:               1
+Estimate: Albums-Latin_Jam4-02.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam4-07.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam4-12.wav
+Estimate tempo slow: 72.45345016429354
+Estimate tempo fast: 103.68338557993731
+Ans:                 104
+Relative P:          0.3551092068210956
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-01.wav
+Estimate tempo slow: 66.81818181818181
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Latin_Jam5-06.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 300.6818181818182
+Ans:                 100
+Relative P:          0.6233392044343431
+ALOTC:               1
+Estimate: Albums-Latin_Jam5-10.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.5269498835806936
+ALOTC:               1
+Estimate: Albums-Macumba-05.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.539768154133496
+ALOTC:               1
+Estimate: Albums-Macumba-06.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 120.27272727272727
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-07.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Macumba-08.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-01.wav
+Estimate tempo slow: 49.699474079639366
+Estimate tempo fast: 300.6818181818182
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-02.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Pais_Tropical-03.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 100
+Relative P:          0.4624039976794124
+ALOTC:               1
+Estimate: Albums-Pais_Tropical-04.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 300.6818181818182
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103501.wav
+Estimate tempo slow: 120.27272727272727
+Estimate tempo fast: 133.63636363636363
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103502.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 240.54545454545453
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103503.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103504.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.41066064623323695
+ALOTC:               1
+Estimate: Media-103505.wav
+Estimate tempo slow: 49.699474079639366
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103506.wav
+Estimate tempo slow: 120.27272727272727
+Estimate tempo fast: 222.72727272727272
+Ans:                 92
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103605.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 120.27272727272727
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103606.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 117.9144385026738
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103607.wav
+Estimate tempo slow: 143.1818181818182
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103618.wav
+Estimate tempo slow: 44.217914438502675
+Estimate tempo fast: 176.8716577540107
+Ans:                 88
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103705.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 300.6818181818182
+Ans:                 104
+Relative P:          0.4576548768606605
+ALOTC:               1
+Estimate: Media-103706.wav
+Estimate tempo slow: 96.99413489736071
+Estimate tempo fast: 207.36677115987462
+Ans:                 104
+Relative P:          0.5764169571274539
+ALOTC:               1
+Estimate: Media-103707.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 207.36677115987462
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103708.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 200.45454545454547
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103715.wav
+Estimate tempo slow: 109.33884297520662
+Estimate tempo fast: 136.67355371900825
+Ans:                 68
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103805.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 207.36677115987462
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103806.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.3556615790054798
+ALOTC:               1
+Estimate: Media-103807.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103808.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.4254715262206402
+ALOTC:               1
+Estimate: Media-103815.wav
+Estimate tempo slow: 48.10909090909091
+Estimate tempo fast: 158.25358851674642
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103901.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 207.36677115987462
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103902.wav
+Estimate tempo slow: 49.699474079639366
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103903.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103904.wav
+Estimate tempo slow: 79.12679425837321
+Estimate tempo fast: 100.22727272727273
+Ans:                 100
+Relative P:          0.6113543021764645
+ALOTC:               1
+Estimate: Media-103905.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 231.2937062937063
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104001.wav
+Estimate tempo slow: 25.481510015408322
+Estimate tempo fast: 101.92604006163329
+Ans:                 102
+Relative P:          0.6110004180364201
+ALOTC:               1
+Estimate: Media-104002.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 117.9144385026738
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104003.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104004.wav
+Estimate tempo slow: 176.8716577540107
+Estimate tempo fast: 193.98826979472142
+Ans:                 98
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104101.wav
+Estimate tempo slow: 50.53475935828877
+Estimate tempo fast: 100.22727272727273
+Ans:                 102
+Relative P:          0.6551634240128121
+ALOTC:               1
+Estimate: Media-104102.wav
+Estimate tempo slow: 50.53475935828877
+Estimate tempo fast: 150.3409090909091
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104103.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.39585761714063894
+ALOTC:               1
+Estimate: Media-104104.wav
+Estimate tempo slow: 98.58420268256334
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.43957897436631055
+ALOTC:               1
+Estimate: Media-104105.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 171.8181818181818
+Ans:                 102
+Relative P:          0.436631317334979
+ALOTC:               1
+Estimate: Media-105401.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105402.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105403.wav
+Estimate tempo slow: 68.33677685950413
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105404.wav
+Estimate tempo slow: 146.67405764966742
+Estimate tempo fast: 200.45454545454547
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105416.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 88
+Relative P:          0.4714878658941685
+ALOTC:               1
+Estimate: Media-105606.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.5679580026285973
+ALOTC:               1
+Estimate: Media-105607.wav
+Estimate tempo slow: 100.22727272727273
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.5015745336296843
+ALOTC:               1
+Estimate: Media-105608.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 100.22727272727273
+Ans:                 100
+Relative P:          0.5965139425194604
+ALOTC:               1
+Estimate: Media-105609.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106001.wav
+Estimate tempo slow: 50.11363636363637
+Estimate tempo fast: 150.3409090909091
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106002.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.4141431582115957
+ALOTC:               1
+Estimate: Media-106003.wav
+Estimate tempo slow: 81.26535626535626
+Estimate tempo fast: 101.92604006163329
+Ans:                 102
+Relative P:          0.5303299838036744
+ALOTC:               1
+Estimate: Media-106004.wav
+Estimate tempo slow: 50.963020030816644
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106106.wav
+Estimate tempo slow: 78.09917355371901
+Estimate tempo fast: 193.98826979472142
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106107.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 100
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106108.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 136.67355371900825
+Ans:                 102
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-106109.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 146.67405764966742
+Ans:                 102
+Relative P:          0.39101578519464264
+ALOTC:               1
+Estimate: Media-106118.wav
+Estimate tempo slow: 103.68338557993731
+Estimate tempo fast: 146.67405764966742
+Ans:                 74
+Relative P:          0.0
+ALOTC:               0
+---------------------------------------------
+Average P-scores:        0.17744934155425146
+Average ALOCT:           0.36046511627906974
+---------------------------------------------
+
+Genres: Tango
+Estimate: Albums-Ballroom_Classics4-06.wav
+Estimate tempo slow: 31.98742746615087
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.6380381424788244
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-07.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 187.92613636363637
+Ans:                 128
+Relative P:          0.4667130764410411
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-08.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.3463723745339445
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-09.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 187.92613636363637
+Ans:                 128
+Relative P:          0.39440866643743
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-10.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 117.9144385026738
+Ans:                 128
+Relative P:          0.672957547744288
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-06.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.38130538106776285
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-07.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 187.92613636363637
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Magic-08.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.36297194370130015
+ALOTC:               1
+Estimate: Albums-Chrisanne1-04.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 261.4624505928854
+Ans:                 128
+Relative P:          0.6260295372899827
+ALOTC:               1
+Estimate: Albums-Chrisanne1-05.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 132
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne1-06.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.3779600562026294
+ALOTC:               1
+Estimate: Albums-Chrisanne2-04.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 133.63636363636363
+Ans:                 132
+Relative P:          0.4273991568101049
+ALOTC:               1
+Estimate: Albums-Chrisanne2-05.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 130.7312252964427
+Ans:                 128
+Relative P:          0.3990109551564347
+ALOTC:               1
+Estimate: Albums-Chrisanne2-06.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.39994305447695916
+ALOTC:               1
+Estimate: Albums-Chrisanne3-04.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.3990787943484386
+ALOTC:               1
+Estimate: Albums-Chrisanne3-05.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 130.7312252964427
+Ans:                 128
+Relative P:          0.45265038630008836
+ALOTC:               1
+Estimate: Albums-Chrisanne3-06.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.38219859381378757
+ALOTC:               1
+Estimate: Albums-Step_By_Step-05.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.4569183795054975
+ALOTC:               1
+Estimate: Albums-Step_By_Step-06.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 207.36677115987462
+Ans:                 128
+Relative P:          0.4398770054528825
+ALOTC:               1
+Estimate: Albums-Step_By_Step-07.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 250.5681818181818
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Step_By_Step-08.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5712763689594865
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-01.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 222.72727272727272
+Ans:                 112
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-StrictlyDancing_Tango-02.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 116
+Relative P:          0.3560777721031975
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-03.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 116
+Relative P:          0.3582652740290129
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-04.wav
+Estimate tempo slow: 120.27272727272727
+Estimate tempo fast: 250.5681818181818
+Ans:                 116
+Relative P:          0.4491290797671374
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-05.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 116
+Relative P:          0.3749673903294686
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-06.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 250.5681818181818
+Ans:                 120
+Relative P:          0.3789917655315869
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-07.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 250.5681818181818
+Ans:                 120
+Relative P:          0.6136671580579146
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-08.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 250.5681818181818
+Ans:                 120
+Relative P:          0.5827370047657303
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-09.wav
+Estimate tempo slow: 125.2840909090909
+Estimate tempo fast: 240.54545454545453
+Ans:                 120
+Relative P:          0.4115593916486804
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-10.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 171.8181818181818
+Ans:                 120
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-StrictlyDancing_Tango-11.wav
+Estimate tempo slow: 120.27272727272727
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.5327350762126764
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-12.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 250.5681818181818
+Ans:                 124
+Relative P:          0.5849421209850254
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-13.wav
+Estimate tempo slow: 60.743801652892564
+Estimate tempo fast: 122.72727272727273
+Ans:                 128
+Relative P:          0.640892150649954
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-14.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.3916280107728688
+ALOTC:               1
+Estimate: Albums-StrictlyDancing_Tango-15.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 273.3471074380165
+Ans:                 132
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-100605.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 117.9144385026738
+Ans:                 128
+Relative P:          0.5644513234455741
+ALOTC:               1
+Estimate: Media-100606.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 316.50717703349284
+Ans:                 128
+Relative P:          0.3971994034402419
+ALOTC:               1
+Estimate: Media-100607.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-103304.wav
+Estimate tempo slow: 133.63636363636363
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.3578539214831042
+ALOTC:               1
+Estimate: Media-103305.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.39915223465705574
+ALOTC:               1
+Estimate: Media-103306.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104206.wav
+Estimate tempo slow: 31.98742746615087
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.6629629063471013
+ALOTC:               1
+Estimate: Media-104207.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 130.7312252964427
+Ans:                 128
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104208.wav
+Estimate tempo slow: 58.384819064430715
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.4508601911519422
+ALOTC:               1
+Estimate: Media-104304.wav
+Estimate tempo slow: 59.54095409540954
+Estimate tempo fast: 120.27272727272727
+Ans:                 120
+Relative P:          0.565165253547528
+ALOTC:               1
+Estimate: Media-104305.wav
+Estimate tempo slow: 261.4624505928854
+Estimate tempo fast: 462.5874125874126
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104306.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.3958109563703984
+ALOTC:               1
+Estimate: Media-104404.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.37121118017182037
+ALOTC:               1
+Estimate: Media-104405.wav
+Estimate tempo slow: 125.2840909090909
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.4539696265546877
+ALOTC:               1
+Estimate: Media-104505.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.34798035880310435
+ALOTC:               1
+Estimate: Media-104506.wav
+Estimate tempo slow: 117.9144385026738
+Estimate tempo fast: 130.7312252964427
+Ans:                 128
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104605.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.4037080281971171
+ALOTC:               1
+Estimate: Media-104606.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 130.7312252964427
+Ans:                 128
+Relative P:          0.4072218089776518
+ALOTC:               1
+Estimate: Media-104706.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.40292901692526184
+ALOTC:               1
+Estimate: Media-104707.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.4466632235425301
+ALOTC:               1
+Estimate: Media-104708.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 462.5874125874126
+Ans:                 128
+Relative P:          0.4285000222156403
+ALOTC:               1
+Estimate: Media-104709.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.39502112978918774
+ALOTC:               1
+Estimate: Media-104710.wav
+Estimate tempo slow: 33.784473953013276
+Estimate tempo fast: 111.36363636363636
+Ans:                 132
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104806.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.37669407430006074
+ALOTC:               1
+Estimate: Media-104807.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 130.7312252964427
+Ans:                 132
+Relative P:          0.38098119853341106
+ALOTC:               1
+Estimate: Media-104808.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.41720678977267317
+ALOTC:               1
+Estimate: Media-104906.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 250.5681818181818
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104907.wav
+Estimate tempo slow: 261.4624505928854
+Estimate tempo fast: 501.1363636363636
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105008.wav
+Estimate tempo slow: 125.2840909090909
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.45037520158092614
+ALOTC:               1
+Estimate: Media-105009.wav
+Estimate tempo slow: 125.2840909090909
+Estimate tempo fast: 240.54545454545453
+Ans:                 124
+Relative P:          0.4057433755472033
+ALOTC:               1
+Estimate: Media-105107.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.626415467881541
+ALOTC:               1
+Estimate: Media-105108.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 117.9144385026738
+Ans:                 128
+Relative P:          0.6694174632952035
+ALOTC:               1
+Estimate: Media-105109.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 300.6818181818182
+Ans:                 128
+Relative P:          0.4596745982510532
+ALOTC:               1
+Estimate: Media-105305.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.3609535259420567
+ALOTC:               1
+Estimate: Media-105306.wav
+Estimate tempo slow: 32.15848322800194
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.6518158478361974
+ALOTC:               1
+Estimate: Media-105317.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.39892826791240926
+ALOTC:               1
+Estimate: Media-105505.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.5291226319745093
+ALOTC:               1
+Estimate: Media-105506.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 250.5681818181818
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105507.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.473746663585181
+ALOTC:               1
+Estimate: Media-105508.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.39853348325455085
+ALOTC:               1
+Estimate: Media-105705.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 127.94970986460348
+Ans:                 128
+Relative P:          0.4596599519859088
+ALOTC:               1
+Estimate: Media-105706.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 462.5874125874126
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105707.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 240.54545454545453
+Ans:                 128
+Relative P:          0.3551853983850175
+ALOTC:               1
+Estimate: Media-105806.wav
+Estimate tempo slow: 63.97485493230174
+Estimate tempo fast: 117.9144385026738
+Ans:                 128
+Relative P:          0.6629370938227077
+ALOTC:               1
+Estimate: Media-105807.wav
+Estimate tempo slow: 127.94970986460348
+Estimate tempo fast: 316.50717703349284
+Ans:                 128
+Relative P:          0.4615130448996098
+ALOTC:               1
+Estimate: Media-105808.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 187.92613636363637
+Ans:                 128
+Relative P:          0.39952581020818423
+ALOTC:               1
+Estimate: Media-105903.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 132
+Relative P:          0.3979061082525083
+ALOTC:               1
+Estimate: Media-105904.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 222.72727272727272
+Ans:                 132
+Relative P:          0.4597138883727387
+ALOTC:               1
+Estimate: Media-105905.wav
+Estimate tempo slow: 130.7312252964427
+Estimate tempo fast: 231.2937062937063
+Ans:                 128
+Relative P:          0.4421603683315776
+ALOTC:               1
+Estimate: Media-105906.wav
+Estimate tempo slow: 113.46483704974271
+Estimate tempo fast: 261.4624505928854
+Ans:                 128
+Relative P:          0.0
+ALOTC:               0
+---------------------------------------------
+Average P-scores:        0.3902275866874339
+Average ALOCT:           0.8255813953488372
+---------------------------------------------
+
+Genres: VienneseWaltz
+Estimate: Albums-Ballroom_Classics4-11.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 176.8716577540107
+Ans:                 174
+Relative P:          0.5346861963444804
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-12.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.622941884662848
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-13.wav
+Estimate tempo slow: 176.8716577540107
+Estimate tempo fast: 546.694214876033
+Ans:                 174
+Relative P:          0.455956127207972
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-14.wav
+Estimate tempo slow: 58.384819064430715
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.6813408450704941
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-09.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 177
+Relative P:          0.5261759896319413
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-10.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6892126312261804
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-11.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Albums-Chrisanne1-07.wav
+Estimate tempo slow: 92.51748251748252
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6401332315252459
+ALOTC:               1
+Estimate: Albums-Chrisanne1-08.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.6092250277615919
+ALOTC:               1
+Estimate: Albums-Chrisanne2-07.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.5480866895165395
+ALOTC:               1
+Estimate: Albums-Chrisanne3-07.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 261.4624505928854
+Ans:                 174
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne3-08.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5307165816281364
+ALOTC:               1
+Estimate: Albums-Chrisanne3-09.wav
+Estimate tempo slow: 59.54095409540954
+Estimate tempo fast: 250.5681818181818
+Ans:                 180
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Step_By_Step-09.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Albums-Step_By_Step-10.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.4795779622433325
+ALOTC:               1
+Estimate: Albums-Step_By_Step-11.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-100608.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6689452702128182
+ALOTC:               1
+Estimate: Media-100609.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.5475931299030012
+ALOTC:               1
+Estimate: Media-100610.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.5331916216311783
+ALOTC:               1
+Estimate: Media-103307.wav
+Estimate tempo slow: 91.11570247933884
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5569026609027459
+ALOTC:               1
+Estimate: Media-103308.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.6028405666410939
+ALOTC:               1
+Estimate: Media-103315.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104209.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5100617177096811
+ALOTC:               1
+Estimate: Media-104210.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.5663576295676618
+ALOTC:               1
+Estimate: Media-104211.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 171.8181818181818
+Ans:                 180
+Relative P:          0.6883875303782354
+ALOTC:               1
+Estimate: Media-104212.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6635603146636223
+ALOTC:               1
+Estimate: Media-104307.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104308.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104309.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          0.4945718761797172
+ALOTC:               1
+Estimate: Media-104406.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          0.3826210131318053
+ALOTC:               1
+Estimate: Media-104407.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5341463346396818
+ALOTC:               1
+Estimate: Media-104408.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6678977633147867
+ALOTC:               1
+Estimate: Media-104409.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104507.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-104508.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5959716541740852
+ALOTC:               1
+Estimate: Media-104607.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6709271002094916
+ALOTC:               1
+Estimate: Media-104608.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 171.8181818181818
+Ans:                 180
+Relative P:          0.6281635351468365
+ALOTC:               1
+Estimate: Media-104609.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5482695096081911
+ALOTC:               1
+Estimate: Media-104711.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 167.04545454545453
+Ans:                 177
+Relative P:          0.5457413806995693
+ALOTC:               1
+Estimate: Media-104712.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6821036968636116
+ALOTC:               1
+Estimate: Media-104809.wav
+Estimate tempo slow: 60.13636363636363
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.5945154189849641
+ALOTC:               1
+Estimate: Media-104810.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.477269421869289
+ALOTC:               1
+Estimate: Media-104811.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          0.41719804497796287
+ALOTC:               1
+Estimate: Media-104908.wav
+Estimate tempo slow: 58.384819064430715
+Estimate tempo fast: 171.8181818181818
+Ans:                 180
+Relative P:          0.6650969864817959
+ALOTC:               1
+Estimate: Media-104909.wav
+Estimate tempo slow: 59.54095409540954
+Estimate tempo fast: 176.8716577540107
+Ans:                 180
+Relative P:          0.610428107674646
+ALOTC:               1
+Estimate: Media-105010.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 180
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-105011.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 167.04545454545453
+Ans:                 180
+Relative P:          0.6598067464861513
+ALOTC:               1
+Estimate: Media-105110.wav
+Estimate tempo slow: 57.27272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 174
+Relative P:          0.5440547369941888
+ALOTC:               1
+Estimate: Media-105111.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.6137153676363255
+ALOTC:               1
+Estimate: Media-105112.wav
+Estimate tempo slow: 182.23140495867767
+Estimate tempo fast: 501.1363636363636
+Ans:                 177
+Relative P:          0.4276850230689414
+ALOTC:               1
+Estimate: Media-105307.wav
+Estimate tempo slow: 59.54095409540954
+Estimate tempo fast: 182.23140495867767
+Ans:                 177
+Relative P:          0.5674892151125868
+ALOTC:               1
+Estimate: Media-105308.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.6265940594036361
+ALOTC:               1
+Estimate: Media-105309.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.5127234151240734
+ALOTC:               1
+Estimate: Media-105318.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.5935230821549468
+ALOTC:               1
+Estimate: Media-105509.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 171.8181818181818
+Ans:                 177
+Relative P:          0.6611487097023483
+ALOTC:               1
+Estimate: Media-105510.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.5164928800043452
+ALOTC:               1
+Estimate: Media-105511.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.656476899736069
+ALOTC:               1
+Estimate: Media-105708.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.6329607943692896
+ALOTC:               1
+Estimate: Media-105709.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.6202229322709206
+ALOTC:               1
+Estimate: Media-105710.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.5772363013961257
+ALOTC:               1
+Estimate: Media-105809.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 171.8181818181818
+Ans:                 177
+Relative P:          0.7034373572222997
+ALOTC:               1
+Estimate: Media-105810.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 174
+Relative P:          0.49404214652443024
+ALOTC:               1
+Estimate: Media-105811.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 171.8181818181818
+Ans:                 177
+Relative P:          0.7064910347000206
+ALOTC:               1
+Estimate: Media-105812.wav
+Estimate tempo slow: 57.82342657342657
+Estimate tempo fast: 171.8181818181818
+Ans:                 174
+Relative P:          0.6267487182129711
+ALOTC:               1
+Estimate: Media-105907.wav
+Estimate tempo slow: 58.9572192513369
+Estimate tempo fast: 176.8716577540107
+Ans:                 177
+Relative P:          0.659818528928595
+ALOTC:               1
+---------------------------------------------
+Average P-scores:        0.6241766677143614
+Average ALOCT:           0.9692307692307692
+---------------------------------------------
+
+Genres: Waltz
+Estimate: Albums-Ballroom_Classics4-01.wav
+Estimate tempo slow: 250.5681818181818
+Estimate tempo fast: 546.694214876033
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Classics4-02.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.4589925427956666
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-03.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Classics4-04.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.4857178356212652
+ALOTC:               1
+Estimate: Albums-Ballroom_Classics4-05.wav
+Estimate tempo slow: 154.1958041958042
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Magic-01.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.5277153720571369
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-02.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.4941264861008885
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-03.wav
+Estimate tempo slow: 14.959294436906378
+Estimate tempo fast: 176.8716577540107
+Ans:                 90
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Ballroom_Magic-04.wav
+Estimate tempo slow: 92.51748251748252
+Estimate tempo fast: 193.98826979472142
+Ans:                 87
+Relative P:          0.6022641637012218
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-05.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.5156409104661608
+ALOTC:               1
+Estimate: Albums-Ballroom_Magic-18.wav
+Estimate tempo slow: 29.918588873812755
+Estimate tempo fast: 176.8716577540107
+Ans:                 90
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne1-01.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.41277437473431317
+ALOTC:               1
+Estimate: Albums-Chrisanne1-02.wav
+Estimate tempo slow: 154.1958041958042
+Estimate tempo fast: 171.8181818181818
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne1-03.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Chrisanne2-01.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 84
+Relative P:          0.48424378888087827
+ALOTC:               1
+Estimate: Albums-Chrisanne2-02.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 353.7433155080214
+Ans:                 84
+Relative P:          0.5107857219146239
+ALOTC:               1
+Estimate: Albums-Chrisanne2-03.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.5779672415866901
+ALOTC:               1
+Estimate: Albums-Chrisanne3-01.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 353.7433155080214
+Ans:                 84
+Relative P:          0.3842561049322421
+ALOTC:               1
+Estimate: Albums-Chrisanne3-02.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 84
+Relative P:          0.43331782536295993
+ALOTC:               1
+Estimate: Albums-Chrisanne3-03.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.395535365576806
+ALOTC:               1
+Estimate: Albums-Commitments-11.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 171.8181818181818
+Ans:                 91
+Relative P:          0.4230223709459286
+ALOTC:               1
+Estimate: Albums-Fire-13.wav
+Estimate tempo slow: 29.62382445141066
+Estimate tempo fast: 113.46483704974271
+Ans:                 90
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Secret_Garden-01.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Secret_Garden-02.wav
+Estimate tempo slow: 81.26535626535626
+Estimate tempo fast: 176.8716577540107
+Ans:                 94
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Secret_Garden-05.wav
+Estimate tempo slow: 150.3409090909091
+Estimate tempo fast: 200.45454545454547
+Ans:                 72
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Secret_Garden-06.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 316.50717703349284
+Ans:                 86
+Relative P:          0.0
+ALOTC:               0
+Estimate: Albums-Step_By_Step-01.wav
+Estimate tempo slow: 82.3785803237858
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.3656360664322838
+ALOTC:               1
+Estimate: Albums-Step_By_Step-02.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 162.53071253071252
+Ans:                 87
+Relative P:          0.590786074781572
+ALOTC:               1
+Estimate: Albums-Step_By_Step-03.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.45777894044538714
+ALOTC:               1
+Estimate: Albums-Step_By_Step-04.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.5659013914251981
+ALOTC:               1
+Estimate: Media-100601.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.4422203395836628
+ALOTC:               1
+Estimate: Media-100602.wav
+Estimate tempo slow: 115.64685314685315
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-100603.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.4122222767552589
+ALOTC:               1
+Estimate: Media-100604.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.45888860687405353
+ALOTC:               1
+Estimate: Media-103301.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 162.53071253071252
+Ans:                 84
+Relative P:          0.535889220071343
+ALOTC:               1
+Estimate: Media-103302.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.5521786533089695
+ALOTC:               1
+Estimate: Media-103303.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 84
+Relative P:          0.4326261351314377
+ALOTC:               1
+Estimate: Media-104201.wav
+Estimate tempo slow: 43.57707509881423
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104202.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 187.92613636363637
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104203.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.47880515407881113
+ALOTC:               1
+Estimate: Media-104204.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.49882772508954343
+ALOTC:               1
+Estimate: Media-104205.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.514017222192368
+ALOTC:               1
+Estimate: Media-104301.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.45183030201632945
+ALOTC:               1
+Estimate: Media-104302.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.437260868726561
+ALOTC:               1
+Estimate: Media-104303.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.49827519775209683
+ALOTC:               1
+Estimate: Media-104401.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.45919645689199673
+ALOTC:               1
+Estimate: Media-104402.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.3977466686607551
+ALOTC:               1
+Estimate: Media-104403.wav
+Estimate tempo slow: 182.23140495867767
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104501.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.36489465630343676
+ALOTC:               1
+Estimate: Media-104502.wav
+Estimate tempo slow: 250.5681818181818
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104503.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 231.2937062937063
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104504.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.4672856841523018
+ALOTC:               1
+Estimate: Media-104601.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.46281538785059595
+ALOTC:               1
+Estimate: Media-104602.wav
+Estimate tempo slow: 92.51748251748252
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.3537207983073487
+ALOTC:               1
+Estimate: Media-104603.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 187.92613636363637
+Ans:                 87
+Relative P:          0.576608368633227
+ALOTC:               1
+Estimate: Media-104604.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104701.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.415393886118531
+ALOTC:               1
+Estimate: Media-104702.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.46960020319908513
+ALOTC:               1
+Estimate: Media-104703.wav
+Estimate tempo slow: 80.18181818181819
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.393523212325517
+ALOTC:               1
+Estimate: Media-104704.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 375.85227272727275
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104705.wav
+Estimate tempo slow: 158.25358851674642
+Estimate tempo fast: 193.98826979472142
+Ans:                 81
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104801.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.47881215585508874
+ALOTC:               1
+Estimate: Media-104802.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.5003648451571296
+ALOTC:               1
+Estimate: Media-104803.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.449304912208327
+ALOTC:               1
+Estimate: Media-104804.wav
+Estimate tempo slow: 89.75576662143827
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.5036175260315693
+ALOTC:               1
+Estimate: Media-104805.wav
+Estimate tempo slow: 58.384819064430715
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104901.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 187.92613636363637
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104902.wav
+Estimate tempo slow: 171.8181818181818
+Estimate tempo fast: 187.92613636363637
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104903.wav
+Estimate tempo slow: 222.72727272727272
+Estimate tempo fast: 546.694214876033
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-104904.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 84
+Relative P:          0.4204289286907743
+ALOTC:               1
+Estimate: Media-104905.wav
+Estimate tempo slow: 273.3471074380165
+Estimate tempo fast: 668.1818181818181
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105001.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.3678620565847542
+ALOTC:               1
+Estimate: Media-105002.wav
+Estimate tempo slow: 101.92604006163329
+Estimate tempo fast: 286.3636363636364
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105003.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 200.45454545454547
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105004.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105005.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.38931541866760233
+ALOTC:               1
+Estimate: Media-105006.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105007.wav
+Estimate tempo slow: 176.8716577540107
+Estimate tempo fast: 286.3636363636364
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105101.wav
+Estimate tempo slow: 231.2937062937063
+Estimate tempo fast: 546.694214876033
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105102.wav
+Estimate tempo slow: 286.3636363636364
+Estimate tempo fast: 546.694214876033
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105103.wav
+Estimate tempo slow: 167.04545454545453
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105104.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.4989018989795849
+ALOTC:               1
+Estimate: Media-105105.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 546.694214876033
+Ans:                 84
+Relative P:          0.44200213256633775
+ALOTC:               1
+Estimate: Media-105106.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.40948122667641695
+ALOTC:               1
+Estimate: Media-105210.wav
+Estimate tempo slow: 88.43582887700535
+Estimate tempo fast: 176.8716577540107
+Ans:                 80
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105211.wav
+Estimate tempo slow: 261.4624505928854
+Estimate tempo fast: 601.3636363636364
+Ans:                 96
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105212.wav
+Estimate tempo slow: 81.26535626535626
+Estimate tempo fast: 273.3471074380165
+Ans:                 94
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105213.wav
+Estimate tempo slow: 187.92613636363637
+Estimate tempo fast: 334.09090909090907
+Ans:                 60
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105214.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 176.8716577540107
+Ans:                 88
+Relative P:          0.3705365413881917
+ALOTC:               1
+Estimate: Media-105215.wav
+Estimate tempo slow: 109.33884297520662
+Estimate tempo fast: 273.3471074380165
+Ans:                 112
+Relative P:          0.3602246696641336
+ALOTC:               1
+Estimate: Media-105301.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.41171281163266543
+ALOTC:               1
+Estimate: Media-105302.wav
+Estimate tempo slow: 98.58420268256334
+Estimate tempo fast: 261.4624505928854
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105303.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 187.92613636363637
+Ans:                 87
+Relative P:          0.6183009660621077
+ALOTC:               1
+Estimate: Media-105304.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.3793938997407046
+ALOTC:               1
+Estimate: Media-105316.wav
+Estimate tempo slow: 84.69910371318822
+Estimate tempo fast: 167.04545454545453
+Ans:                 84
+Relative P:          0.46083262059690366
+ALOTC:               1
+Estimate: Media-105501.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.47101470874535906
+ALOTC:               1
+Estimate: Media-105502.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 167.04545454545453
+Ans:                 87
+Relative P:          0.5717969627139502
+ALOTC:               1
+Estimate: Media-105503.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 115.64685314685315
+Ans:                 87
+Relative P:          0.44493894700272646
+ALOTC:               1
+Estimate: Media-105504.wav
+Estimate tempo slow: 82.3785803237858
+Estimate tempo fast: 83.52272727272727
+Ans:                 84
+Relative P:          1.0
+ALOTC:               1
+Estimate: Media-105701.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 353.7433155080214
+Ans:                 87
+Relative P:          0.5167897765360678
+ALOTC:               1
+Estimate: Media-105702.wav
+Estimate tempo slow: 162.53071253071252
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.0
+ALOTC:               0
+Estimate: Media-105703.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.4983123447597606
+ALOTC:               1
+Estimate: Media-105704.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 176.8716577540107
+Ans:                 84
+Relative P:          0.3649952857774418
+ALOTC:               1
+Estimate: Media-105801.wav
+Estimate tempo slow: 85.9090909090909
+Estimate tempo fast: 176.8716577540107
+Ans:                 87
+Relative P:          0.5176353990735372
+ALOTC:               1
+Estimate: Media-105802.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.47812601386383496
+ALOTC:               1
+Estimate: Media-105803.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.5103658274780015
+ALOTC:               1
+Estimate: Media-105804.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.45325120589704226
+ALOTC:               1
+Estimate: Media-105805.wav
+Estimate tempo slow: 87.15415019762845
+Estimate tempo fast: 171.8181818181818
+Ans:                 87
+Relative P:          0.48782413139260583
+ALOTC:               1
+Estimate: Media-105901.wav
+Estimate tempo slow: 83.52272727272727
+Estimate tempo fast: 182.23140495867767
+Ans:                 84
+Relative P:          0.3526417993964584
+ALOTC:               1
+Estimate: Media-105902.wav
+Estimate tempo slow: 122.72727272727273
+Estimate tempo fast: 353.7433155080214
+Ans:                 84
+Relative P:          0.0
+ALOTC:               0
+---------------------------------------------
+Average P-scores:        0.2953552237720321
+Average ALOCT:           0.6272727272727273
+---------------------------------------------
+
